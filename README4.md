@@ -3,4 +3,4 @@
 <h3 align="center">with AI Technology</h3>
 -->
 
-<h1 align="center">Hi 👋, This is @Tommy Rautio</h1>
+<h1 align="center">Hi 👋, This is @Aleksander Djorik</h1>
