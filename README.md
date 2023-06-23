@@ -1,4 +1,4 @@
-![image](https://github.com/alexd725/alexd725/assets/136929982/32d567fe-6d06-4d8e-a4ab-bf37e4cd2986)![image](https://github.com/alexd725/alexd725/assets/136929982/ee9cdc8e-c153-4bf8-a927-e1732f02a1a2)<h1 align="center">Hi 👋, I'm Alexsander Djorik</h1>
+<h1 align="center">Hi 👋, I'm Alexsander Djorik</h1>
 
 <h3 align="center">Senior Full-Stack Web & Mobile developer with Blockchain technologies</h3>
 
