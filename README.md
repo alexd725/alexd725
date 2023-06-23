@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tommy Rautio</h1>
+![image](https://github.com/alexd725/alexd725/assets/136929982/32d567fe-6d06-4d8e-a4ab-bf37e4cd2986)![image](https://github.com/alexd725/alexd725/assets/136929982/ee9cdc8e-c153-4bf8-a927-e1732f02a1a2)<h1 align="center">Hi 👋, I'm Alexsander Djorik</h1>
 
 <h3 align="center">Senior Full-Stack Web & Mobile developer with Blockchain technologies</h3>
 
@@ -10,10 +10,10 @@
 
 &nbsp;&nbsp;
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tommy725&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alexd725&column=7&theme=onedark"/>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tommy725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexd725&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <br />
@@ -22,15 +22,15 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="afteryou725@gmail.com" title="afteryou725@gmail.com"/>
+    <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="alex725.dev@gmail.com" title="alex725.dev@gmail.com"/>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.d366604a8bd42b92" title="live:.cid.d366604a8bd42b92"/>
+    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.735a3ae15100b323" title="live:.cid.735a3ae15100b323"/>
     &nbsp;&nbsp;
     <!--
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
     &nbsp;&nbsp; 
     -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="TommyRautio#9304" title="TommyRautio#9304"/>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="Alex725#2243" title="Alex725#2243"/>
     &nbsp;&nbsp;
   </div>
 </div>
