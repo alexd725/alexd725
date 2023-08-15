@@ -40,7 +40,7 @@
   <div align="center">
     <img src="https://img.icons8.com/color/2x/gmail.png"  width="40" alt="alex725.dev@gmail.com" title="alex725.dev@gmail.com"/>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.735a3ae15100b323" title="live:.cid.735a3ae15100b323"/>
+    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="live:.cid.955c8dd957f35ff" title="live:.cid.955c8dd957f35ff"/>
     &nbsp;&nbsp;
     <!--
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="https://t.me/RT725" title="https://t.me/RT725"/>
