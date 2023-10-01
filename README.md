@@ -31,7 +31,7 @@
 <a href="https://github.com/alexd725?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=alexd725&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Alex's trophy stats"/></a>
 </p>
 
-
+<!--
 <br />
 
 ## Contact me
@@ -48,5 +48,6 @@
     -->
     <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="Alex725#2243" title="Alex725#2243"/>
     &nbsp;&nbsp;
-  </div>
+<!--  </div>
 </div>
+-->
